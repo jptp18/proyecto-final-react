@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/proyecto-final-react/static/css/main.f515234f.css",
+    "main.js": "/proyecto-final-react/static/js/main.a8ded2f6.js",
+    "static/media/creditCards.png": "/proyecto-final-react/static/media/creditCards.2a17d0676a8256fa772b.png",
+    "index.html": "/proyecto-final-react/index.html",
+    "static/media/cart-shopping-solid.svg": "/proyecto-final-react/static/media/cart-shopping-solid.d4c309bdf647339dee3c508977bff619.svg",
+    "static/media/bag-shopping-solid.svg": "/proyecto-final-react/static/media/bag-shopping-solid.a7baea2914320ae3bab27b16cb77109d.svg",
+    "static/media/user-solid.svg": "/proyecto-final-react/static/media/user-solid.2dad48cb7fe67e363245b5647b431a6e.svg",
+    "main.f515234f.css.map": "/proyecto-final-react/static/css/main.f515234f.css.map",
+    "main.a8ded2f6.js.map": "/proyecto-final-react/static/js/main.a8ded2f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f515234f.css",
+    "static/js/main.a8ded2f6.js"
+  ]
+}
